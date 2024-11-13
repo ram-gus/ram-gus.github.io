@@ -3,6 +3,8 @@ title: "Home"
 layout: default
 ---
 
+[Home](./) | [Projects](./projects)
+
 # [Your Name]
 Welcome to my Research CV!
 
