@@ -3,7 +3,7 @@ title: "Contact"
 layout: default
 ---
 
-[Home](./) | [Projects](./projects) | [Contact](./contact)
+[Home](./) | [Projects](./projects) | [Contact](./contact) | [CV](./cv)
 
 ## Contact Information
 - **Email:** ramosg at cicese.edu.mx 
