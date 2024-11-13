@@ -3,7 +3,7 @@ title: "Home"
 layout: default
 ---
 
-[Home](./) | [Projects](./projects)
+[Home](./) | [Projects](./projects) | [Contact](./contact)
 
 # Gustavo Ramos
 Welcome to my Research and Personal Page!
@@ -20,7 +20,3 @@ I am a PhD in Electronics and Telecommunications at CICESE in Ensenada, Mexico. 
 ## Publications
 1. "Double light source Ronchi Tester for detection of ruling rotations," Juan Manuel Nuñez-Alfonso, Javier Salinas-Luna, Yuliette Katinka Nuñez-Moreno, Joel Humberto Castro-Chacón, José Luis Monay-Arredondo, Benjamín Martínez-Chávez, Gustavo E. Ramos-Alcaraz and Iliana Marlen Meza-Sánchez, Physica Scripta, 2024, [DOI: 10.1088/1402-4896/ad368d](https://iopscience.iop.org/article/10.1088/1402-4896/ad368d)
 2. "Star-Identification System Based on Polygon Recognition," Gustavo E. Ramos-Alcaraz, Miguel A. Alonso-Arévalo and Juan M. Nuñez-Alfonso, Aerospace, 2023, [DOI: 10.3390/aerospace10090748](https://doi.org/10.3390/aerospace10090748)
-
-## Contact Information
-- **Email:** ramosg at cicese.edu.mx 
-- **LinkedIn:** [linkedin.com/in/gustavo-enrique-ramos-alcaraz](https://www.linkedin.com/in/gustavo-enrique-ramos-alcaraz/)
