@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: "Gustavo Enrique Ramos Alcaraz"
 description: "PhD in Electronics and Telecommunications at CICESE"
+logo: /assets/img/profile.jpeg
 
 # Navigation menu
 links:
