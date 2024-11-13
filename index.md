@@ -3,7 +3,7 @@ title: "Home"
 layout: default
 ---
 
-[Home](./) | [Projects](./projects) | [Contact](./contact)
+[Home](./) | [Projects](./projects) | [Contact](./contact) | [CV](./cv)
 
 # Gustavo Ramos
 Welcome to my Research and Personal Page!
