@@ -5,7 +5,8 @@ layout: default
 
 [Home](./) | [Projects](./projects) | [Contact](./contact)
 
-# Research Projects
+# Ongoing Research Projects 🏗️
+
 ## Project #1
 Seeing monitor: The Differential Image Motion Monitor (DIMM) technique will be employed to obtain the full width at half maximum (FWHM) of the ROI from an image using the invariant algorithm.
 
