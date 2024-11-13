@@ -6,8 +6,8 @@ layout: default
 [Home](./) | [Projects](./projects)
 
 # Research Projects
-## Project A
-Description of Project A.
+## Project #1
+Seeing monitor: The Differential Image Motion Monitor (DIMM) technique will be employed to obtain the full width at half maximum (FWHM) of the ROI from an image using the invariant algorithm.
 
-## Project B
-Description of Project B.
+## Project #2
+Tool for plate calibration or astrometry, due to the number of stars detected per image.
