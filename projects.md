@@ -3,7 +3,7 @@ title: "Projects"
 layout: default
 ---
 
-[Home](./) | [Projects](./projects)
+[Home](./) | [Projects](./projects) | [Contact](./contact)
 
 # Research Projects
 ## Project #1
