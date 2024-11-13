@@ -2,7 +2,6 @@ theme: jekyll-theme-minimal
 title: "Gustavo Enrique Ramos Alcaraz"
 description: "PhD in Electronics and Telecommunications at CICESE"
 logo: /assets/img/profile.jpeg
-css: /assets/css/style.css
 
 # Navigation menu
 links:
@@ -10,4 +9,13 @@ links:
     url: "/"
   - title: "Projects"
     url: "/projects"
-    
+
+# Cambiar color de fondo y cabeceras en CSS directo
+style: |
+  body {
+    background-color: #f0f0f0; /* Cambia esto al color de fondo que prefieras */
+  }
+
+  h1, h2, h3 {
+    color: #007acc; /* Cambia esto al color que prefieras para las cabeceras */
+  }
