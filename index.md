@@ -21,7 +21,7 @@ I am a researcher focusing on [your field of study]. My research interests inclu
 - **Master’s in [Field of Study]** - University, Year
 
 ## Research Experience
-- **Project A** - Brief description of the project
+- **Project A** - A Brief description of the project
 - **Project B** - Brief description of the project
 
 ## Publications
