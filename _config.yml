@@ -9,14 +9,3 @@ links:
     url: "/"
   - title: "Projects"
     url: "/projects"
-
-# Cambiar color de fondo y cabeceras en CSS directo
-# Color de las cabeceras #007acc
-style: |
-  body {
-    background-color: #f2e7b6; /* Cambia esto al color de fondo que prefieras */
-  }
-
-  h1, h2, h3 {
-    color: #1949f7; /* Cambia esto al color que prefieras para las cabeceras */
-  }
