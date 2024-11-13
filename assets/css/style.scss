@@ -4,5 +4,10 @@
 @import "{{ site.theme }}";
 /* Cambiar el color de fondo */
 body {
-    background-color: #f0cccc;
+    background-color: #f2f2c9;
+}
+
+/* Cambiar el color de las cabeceras */
+h1, h2, h3 {
+    color: #0d0a66;
 }
