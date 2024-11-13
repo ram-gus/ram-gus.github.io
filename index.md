@@ -3,7 +3,10 @@ title: "Home"
 layout: default
 ---
 
-[Home](./) | [Projects](./projects)
+<nav style="text-align: center;">
+    <a href="./" style="margin-right: 15px;">Home</a>
+    <a href="./projects" style="margin-right: 15px;">Projects</a>
+</nav>
 
 # [Your Name]
 Welcome to my Research CV!
