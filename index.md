@@ -5,7 +5,7 @@ layout: default
 
 [Home](./) | [Projects](./projects) | [Contact](./contact) | [CV](./cv)
 
-# Gustavo Ramos
+# Gustavo E. Ramos-Alcaraz
 Welcome to my Research and Personal Page!
 
 ## Page under construction ... 🛠️
