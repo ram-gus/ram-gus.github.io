@@ -8,10 +8,3 @@ description: "PhD in Electronics and Telecommunications at CICESE"
 logo: /assets/img/profile.jpeg
 #show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: [G-9ZRXBX9NY9]
-
-# Navigation menu
-links:
-  - title: "Home"
-    url: "/"
-  - title: "Projects"
-    url: "/projects"
