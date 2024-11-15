@@ -2,34 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-/* Estilo para centrar el contenido del sidebar */
-.sidebar {
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* Centra los elementos horizontalmente */
-    text-align: center; /* Centra el texto del título y la descripción */
-}
-
-/* Ajuste del tamaño y estilo de la imagen del logo */
-.sidebar img[alt="logo"] {
-    width: 120px; /* Ajusta el tamaño de la imagen del logo */
-    height: auto; /* Mantiene la proporción de la imagen */
-    border-radius: 50%; /* Redondea la imagen si deseas */
-    margin-bottom: 15px; /* Espacio entre el logo y el título */
-}
-
-/* Estilo del título y descripción */
-.sidebar h1, .sidebar .site-title {
-    font-size: 1.8em; /* Tamaño del título */
-    margin: 0; /* Elimina el margen superior e inferior */
-    color: #333; /* Color del título */
-}
-
-.sidebar .site-description {
-    font-size: 1em; /* Tamaño de la descripción */
-    color: #666; /* Color de la descripción */
-    margin-top: 5px; /* Espacio entre el título y la descripción */
-}
 /* Estilo del contenedor del menú */
 .top-menu {
     position: fixed;
