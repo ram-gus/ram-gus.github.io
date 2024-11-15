@@ -2,23 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-body::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;         /* Abarca todo el ancho */
-    height: 40vh;        /* 20% de la altura de la ventana */
-    background-color: #eaeae1; /* Cambia esto al color que prefieras */
-    z-index: -1;         /* Envía la barra detrás del contenido */
-}
 /* Cambiar el color de fondo */
 body {
-    position: relative;
-    margin: 0;
-    padding: 0;
     background-color: #f8f9fa;
-    color: #6e7380; // Cambia este color al que prefieras para el texto normal
+    color: #F0F0E9; // Cambia este color al que prefieras para el texto normal
 }
 
 /* Cambiar el color de las cabeceras */
