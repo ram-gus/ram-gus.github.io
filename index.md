@@ -29,4 +29,4 @@ I have been part of the [LaTTE](https://posgrados.cicese.mx/posgrado/laboratorio
 2. "Star-Identification System Based on Polygon Recognition," Gustavo E. Ramos-Alcaraz, Miguel A. Alonso-Arévalo and Juan M. Nuñez-Alfonso, Aerospace, 2023, [DOI: 10.3390/aerospace10090748](https://doi.org/10.3390/aerospace10090748)
 
 
-© Gustavo Ramos, 2024. This website and its code are licensed under the [MIT License](https://github.com/ram-gus/ram-gus.github.io/blob/b183a711557e847ecbae8411612f9d8a42336eb9/LICENSE).
+© Gustavo Ramos 2024. This website and its code are licensed under the [MIT License](https://github.com/ram-gus/ram-gus.github.io/blob/b183a711557e847ecbae8411612f9d8a42336eb9/LICENSE).
