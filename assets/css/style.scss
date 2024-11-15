@@ -50,6 +50,12 @@ h1, h2, h3 {
     color: #6c717e;
 }
 
+/* Cambiar el color de las negritas */
+strong, b {
+    color: #6d727f; /* Cambia #555555 al color que prefieras para el texto en negrita */
+    font-weight: bold; /* Mantiene el peso de la negrita */
+}
+
 /* Cambiar el color del título en el encabezado si es un enlace */
 a, .site-title a {
     color: #719898; /* Cambia esto al color deseado */
