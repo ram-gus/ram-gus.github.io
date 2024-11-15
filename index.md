@@ -10,9 +10,6 @@ layout: default
     <a href="./contact" class="menu-item">Contact</a>
 </nav>
 
-# Gustavo E. Ramos-Alcaraz
-Welcome to my Research and Personal Page!
-
 ## Page under construction ... 🛠️
 
 ## About Me
