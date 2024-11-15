@@ -3,7 +3,12 @@ title: "CV"
 layout: default
 ---
 
-[Home](./) | [Projects](./projects) | [Contact](./contact) | [CV](./cv)
+<nav class="top-menu">
+    <a href="./" class="menu-item">Home</a>
+    <a href="./projects" class="menu-item">Projects</a>
+    <a href="./cv" class="menu-item">CV</a>
+    <a href="./contact" class="menu-item">Contact</a>
+</nav>
 
 # Gustavo Ramos CV (English)
 
