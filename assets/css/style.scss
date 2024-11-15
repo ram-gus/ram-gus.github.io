@@ -6,12 +6,15 @@
 .top-menu {
     position: fixed;
     top: 0;
-    width: 100%;
+    left: 0; /* Asegura que el menú comience desde el borde izquierdo */
+    width: 100vw; /* Asegura que el menú ocupe todo el ancho de la ventana */
     background-color: #333; /* Fondo del menú */
     padding: 10px 0;
     text-align: center;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* Sombra debajo del menú */
     z-index: 10; /* Mantiene el menú encima del contenido */
+    display: flex; /* Usar flexbox para alinear los elementos */
+    justify-content: center; /* Centra los elementos horizontalmente */
 }
 
 /* Estilo de los enlaces del menú */
@@ -22,6 +25,7 @@
     margin: 0 15px;
     padding: 10px 15px;
     transition: all 0.3s ease; /* Transición suave */
+    white-space: nowrap; /* Evita que los enlaces se dividan en varias líneas */
 }
 
 /* Efecto hover en los enlaces del menú */
