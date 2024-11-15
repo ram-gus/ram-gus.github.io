@@ -28,7 +28,5 @@ I have been part of the [LaTTE](https://posgrados.cicese.mx/posgrado/laboratorio
 1. "Double light source Ronchi Tester for detection of ruling rotations," Juan Manuel Nuñez-Alfonso, Javier Salinas-Luna, Yuliette Katinka Nuñez-Moreno, Joel Humberto Castro-Chacón, José Luis Monay-Arredondo, Benjamín Martínez-Chávez, Gustavo E. Ramos-Alcaraz and Iliana Marlen Meza-Sánchez, Physica Scripta, 2024, [DOI: 10.1088/1402-4896/ad368d](https://iopscience.iop.org/article/10.1088/1402-4896/ad368d)
 2. "Star-Identification System Based on Polygon Recognition," Gustavo E. Ramos-Alcaraz, Miguel A. Alonso-Arévalo and Juan M. Nuñez-Alfonso, Aerospace, 2023, [DOI: 10.3390/aerospace10090748](https://doi.org/10.3390/aerospace10090748)
 
-This website is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-
-© Gustavo Ramos, 2024. This website and its code are licensed under the MIT License.
+© Gustavo Ramos, 2024. This website and its code are licensed under the [MIT License](https://github.com/ram-gus/ram-gus.github.io/blob/b183a711557e847ecbae8411612f9d8a42336eb9/LICENSE).
