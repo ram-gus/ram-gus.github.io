@@ -3,6 +3,7 @@ remote_theme: pages-themes/minimal@v0.2.0 # Theme Info: https://github.com/pages
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+css: /assets/css/style.scss
 title: "Gustavo Ramos"
 description: "PhD in Electronics and Telecommunications at CICESE"
 logo: /assets/img/profile.jpeg
