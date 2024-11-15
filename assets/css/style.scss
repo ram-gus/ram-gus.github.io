@@ -8,7 +8,7 @@
     top: 0;
     left: 0; /* Asegura que el menú comience desde el borde izquierdo */
     width: 100vw; /* Asegura que el menú ocupe todo el ancho de la ventana */
-    background-color: #333; /* Fondo del menú */
+    background-color: #4a4a4a; /* Fondo del menú */
     padding: 10px 0;
     text-align: center;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* Sombra debajo del menú */
@@ -30,7 +30,7 @@
 
 /* Efecto hover en los enlaces del menú */
 .top-menu .menu-item:hover {
-    background-color: #555; /* Fondo al pasar el ratón */
+    background-color: #4a4a4a; /* Fondo al pasar el ratón ORIGINAL #555 */
     color: #8cb541; /* Color del texto al pasar el ratón */
     border-radius: 5px; /* Bordes redondeados */
     transform: scale(1.1); /* Ampliación suave al pasar el ratón */
