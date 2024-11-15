@@ -24,7 +24,7 @@
     font-weight: bold;
     margin: 0 15px;
     padding: 10px 15px;
-    transition: all 0.7s ease; /* Transición suave */
+    transition: all 0.6s ease; /* Transición suave */
     white-space: nowrap; /* Evita que los enlaces se dividan en varias líneas */
 }
 
@@ -39,7 +39,7 @@
 
 /* Cambiar el color de fondo */
 body {
-    padding-top: 100px; /* Ajusta este valor según la altura del menú */
+    padding-top: 80px; /* Ajusta este valor según la altura del menú */
     margin: 0; /* Elimina cualquier margen en el body */
     background-color: #F0F0E9;
     color: #6e7380; // Cambia este color al que prefieras para el texto normal
