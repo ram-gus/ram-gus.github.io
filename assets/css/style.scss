@@ -2,8 +2,40 @@
 ---
 
 @import "{{ site.theme }}";
+/* Estilo del contenedor del menú */
+.top-menu {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #333; /* Fondo del menú */
+    padding: 10px 0;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* Sombra debajo del menú */
+    z-index: 10; /* Mantiene el menú encima del contenido */
+}
+
+/* Estilo de los enlaces del menú */
+.top-menu .menu-item {
+    color: #ffffff; /* Color del texto */
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 15px;
+    padding: 10px 15px;
+    transition: all 0.3s ease; /* Transición suave */
+}
+
+/* Efecto hover en los enlaces del menú */
+.top-menu .menu-item:hover {
+    background-color: #555; /* Fondo al pasar el ratón */
+    color: #FFD700; /* Color del texto al pasar el ratón */
+    border-radius: 5px; /* Bordes redondeados */
+    transform: scale(1.1); /* Ampliación suave al pasar el ratón */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave */
+}
+
 /* Cambiar el color de fondo */
 body {
+    padding-top: 60px; /* Ajusta este valor según la altura del menú */
     background-color: #F0F0E9;
     color: #6e7380; // Cambia este color al que prefieras para el texto normal
 }
