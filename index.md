@@ -10,7 +10,7 @@ layout: default
     <a href="./contact" class="menu-item">Contact</a>
 </nav>
 
-## 🛠️ Page under construction 🛠️
+<!--## 🛠️ Page under construction 🛠️-->
 
 ## About Me
 I am a PhD graduated in Electronics and Telecommunications at [CICESE](https://posgrados.cicese.mx) in Ensenada, Mexico. [My research](https://orcid.org/0000-0001-6387-4504) focuses on signal and image processing, embedded devices, and satellite attitude determination algorithms. I have developed a [star identification algorithm](https://doi.org/10.3390/aerospace10090748) for satellite and plate-solving devices, using catalogs from the Gaia mission (DR2 and DR3) and Python libraries like Astropy. 
