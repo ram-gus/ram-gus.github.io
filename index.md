@@ -17,7 +17,7 @@ I am a PhD graduated in Electronics and Telecommunications at [CICESE](https://p
 
 I am skilled in programming for microcontrollers such as STM32, Arduino and ESP32, as well as programming languages like Python, Matlab, and C/C++. I also have extensive experience with GNU/Linux systems and other operating systems, such as Windows and MacOS. Fan of embedded devices such as Raspberry Pi and Jetson Nano.
 
-I have been part of the [LaTTE](https://posgrados.cicese.mx/posgrado/laboratorio/62/8/2) (Laboratorio de Telecomunicaciones y Tecnología Aeroespacial / Laboratory of Telecommunications and Aerospace Technology) laboratory and am currently a Part-time Professor in Computer Organization and Architecture at the [Facultad de Ciencias, UABC](https://ciencias.ens.uabc.mx) and [UNIENS](https://universidaddeensenada.edu.mx). 
+I have been part of the [LaTTE](https://posgrados.cicese.mx/posgrado/laboratorio/62/8/2) (Laboratorio de Telecomunicaciones y Tecnología Aeroespacial / Laboratory of Telecommunications and Aerospace Technology) laboratory and am currently a Part-time Professor in Computer Organization and Architecture at the [Facultad de Ciencias, UABC](https://ciencias.ens.uabc.mx) and Desktop Engineer at [UNIENS-ITECI](https://universidaddeensenada.edu.mx) Company. 
 
 ## Education
 - **PhD in Electronics and Telecommunications with a focus on Telecommunications** - [PhD Thesis](http://cicese.repositorioinstitucional.mx/jspui/handle/1007/4161): "Design of an algorithm for star recognition in astronomical images", CICESE Research Center, Ensenada, B.C., Mexico, 2024.
